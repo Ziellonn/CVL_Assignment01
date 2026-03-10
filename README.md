@@ -68,6 +68,6 @@ Below are the comparasion between the orginal photos and the results
 
 ### 2. Brightness Reduction using Linear Transformation
    Before:
-  ![Reduce](Reduce_before.jpg) 
+  ![Reduce](reduce_before.jpg) 
    After: 
-   ![Reduce](Reduce_after.jpg)
+   ![Reduce](reduce_after.jpg)
